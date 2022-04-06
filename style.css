@@ -1,5 +1,5 @@
 .container{
-    margin-bottom: 60px !important;
+    margin-bottom: 30px;
 }
 
 .half-right{
@@ -47,10 +47,7 @@ hr{
 .short-img h4{
     text-align: center;
 }
-footer p{
-    text-align: center;
-    font-size: 20px;
-}
+
 .carousel-indicators li{
     background-color: lightgrey;
     width: 21px;
