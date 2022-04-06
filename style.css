@@ -1,0 +1,62 @@
+.container{
+    margin-bottom: 60px !important;
+}
+
+.half-right{
+    background-image: url(./img/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: contain;
+}
+.half-left{
+    
+    background-image: url(./img/bg-2.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 5px;
+    text-align: center;
+}
+.price{
+    font-size: 30px;
+    font-weight: 400px;
+}
+.cate{
+    height: 580px;
+}
+.cate h1{
+    text-align: center;
+}
+hr{
+    width: 100px;
+    
+}
+.psize{
+    width: 100%;
+}
+.short-img{
+    width: 150px;
+    height: 160px;
+    border-radius: 20px 3px 22px 9px;
+    box-shadow: 5px 5px 30px lightgrey;
+    margin-bottom: 50px;
+}
+.short-img h4{
+    text-align: center;
+}
+footer p{
+    text-align: center;
+    font-size: 20px;
+}
+.carousel-indicators li{
+    background-color: lightgrey;
+    width: 21px;
+    border-radius: 10px;
+}
+.carousel-indicators .active {
+    background-color: orange;
+    width: 35px;
+}
